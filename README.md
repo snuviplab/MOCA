@@ -12,7 +12,7 @@ Sequential Recommender (SR) systems stand out for their ability to capture dynam
 ### Environment Setup
 ```bash
 # Create and activate conda environment
-conda env create -n moca python=3.10
+conda create -n moca python=3.10
 conda activate moca
 
 # Install dependencies
