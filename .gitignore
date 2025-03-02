@@ -1,0 +1,8 @@
+*.ipynb
+*.pyc
+data/raw
+data/processed
+exp*
+slurm_log
+*.sh
+analysis
